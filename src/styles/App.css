@@ -1,5 +1,14 @@
-.App {
+
+body{
+  background-color: black;
+  color: white;
   text-align: center;
+}
+
+img {
+  border-radius: 8px;
+  max-width: 600px;
+  height: auto;
 }
 
 .App-logo {
